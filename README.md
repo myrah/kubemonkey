@@ -1,1 +1,1 @@
-# kubemonkey sample files
+# kube-monkey sample files
